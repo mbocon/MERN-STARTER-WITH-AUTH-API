@@ -17,4 +17,4 @@ SECRET=yourSecret
 
 Then in the terminal run the command npm i to install the dependencies
 
-You'll need to also clone this React frontend codebase. 
+You'll need to also clone [this](https://github.com/mbocon/MERN-STARTER-WITH-AUTH-CLIENT.git) React frontend codebase. 

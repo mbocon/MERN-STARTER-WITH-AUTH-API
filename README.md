@@ -11,7 +11,7 @@ Simply clone this repo to get started.
 Once you've cloned this repo, you need to create a .env file at the root level. Inside your .env file you will need to add the following:
 
 ```javascript
-DATABASE_URL=yourMongoDBCnnectionString
+DATABASE_URL=yourMongoDBConnectionString
 SECRET=yourSecret
 ```
 
